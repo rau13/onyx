@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902905927988",
+    "project_id": "onyxtestauth",
+    "storage_bucket": "onyxtestauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902905927988:android:a81925f88dde448b37ed61",
+        "android_client_info": {
+          "package_name": "com.example.geexclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902905927988-0fmqhganhibb6eck9ep6fr9er8300p36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5TAHHvnTA9a27dT0V_dz_S-bfDSM3cYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902905927988-0fmqhganhibb6eck9ep6fr9er8300p36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
